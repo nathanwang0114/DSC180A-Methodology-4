@@ -1,5 +1,5 @@
 # Nathan Wang
-## [nxwang@ucsd.edu](nxwang@ucsd.edu)
+## [nxwang@ucsd.edu](mailto:nxwang@ucsd.edu)
 * B18
 * Rob Knight
 
